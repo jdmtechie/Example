@@ -17,6 +17,7 @@ public class DataTypes {
 		s += t;
 		System.out.println("Shorthand operator is used, " + 
 				"so cast is not required: res = " + s);
+		System.out.println("Git Test!!!");
 
 	}
 
